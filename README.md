@@ -53,6 +53,8 @@ Segment Tree : https://codeforces.com/blog/entry/15890
 
 ZELDAS PODEROSOS FÍSICA
 
+Cursos Maestría Perimeter Institute: https://www.perimeterinstitute.ca/training/perimeter-scholars-international/lectures/2010/11-psi-lectures?fbclid=IwAR0WlOKpsTyZm9xRTXHdTu2ioGooyAwKYHbpxFHwXYl_JVZ9rVP5kcXV-Wo
+
 ETH ZURICH : http://www.itp.phys.ethz.ch/research/particle/lectures/classical-mechanics.html
 
 ETH ZURICH ARCHIVO DE CURSOS : http://edu.itp.phys.ethz.ch/
