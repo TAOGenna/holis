@@ -51,37 +51,3 @@ IOI problems : http://wcipeg.com/problems/search=ioi,show=50
 
 Segment Tree : https://codeforces.com/blog/entry/15890
 
-ZELDAS PODEROSOS FÍSICA
-
-Cursos Maestría Perimeter Institute: https://www.perimeterinstitute.ca/training/perimeter-scholars-international/lectures/2010/11-psi-lectures?fbclid=IwAR0WlOKpsTyZm9xRTXHdTu2ioGooyAwKYHbpxFHwXYl_JVZ9rVP5kcXV-Wo
-
-ETH ZURICH : http://www.itp.phys.ethz.ch/research/particle/lectures/classical-mechanics.html
-
-ETH ZURICH ARCHIVO DE CURSOS : http://edu.itp.phys.ethz.ch/
-
-MIT GENERAL RELATIVITY : (solo hay que cambiar el número del lecture en el link) : http://web.mit.edu/edbert/GR/gr5.pdf
-
-Self Study Mathematics : https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles
-
-Princeton : http://www.physics.princeton.edu/~mcdonald/examples/#ph205
-
-CalTech : http://www.astro.caltech.edu/~golwala/ph106ab/
-
-Videos varios: https://www.youtube.com/watch?v=9M1l3zx1vw0&list=PLrbYZnU7vahLwGDMeVlRib_L_MpkOhphu
-
-
-Physics Contest for undergraduates(revisar)
-
-http://thworldcup.com/home
-
-http://iypt.org/Home
-
-http://www.uphysicsc.com/
-
-https://www.iaps.info/
-
-http://2018.iptnet.info/problems/
-
-https://ortvay.elte.hu/about.html
-
-
