@@ -1,8 +1,4 @@
-# holis
-ZELDAS
-
-
-ZELDAS PODEROSOS ALGORITMOS
+# ZELDAS PODEROSOS ALGORITMOS
 
 GRAFOS : https://codeforces.com/blog/entry/55219
 
