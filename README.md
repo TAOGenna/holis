@@ -51,3 +51,5 @@ IMO proparation books : https://imomath.com/index.php?options=347&lmm=0
 MIT professor teaching Randomized Algorithms and Matroids and Advanced Algorithms : http://math.mit.edu/~goemans/teaching.html
 
 Hard problems analysis : http://dojiboy9.atspace.cc/contest/about.php
+
+Juez Polonia 2 : https://szkopul.edu.pl/
