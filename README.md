@@ -55,3 +55,5 @@ Hard problems analysis : http://dojiboy9.atspace.cc/contest/about.php
 Juez Polonia 2 : https://szkopul.edu.pl/
 
 ICPC World Finalist Blog: http://adilet.org/ 
+
+Errichto git : https://github.com/Errichto/youtube/wiki/How-to-practice%3F
