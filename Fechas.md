@@ -4,6 +4,8 @@ FECHAS IMPORTANTES:
 
 Todo el año disponible : TOEFL
 
+Enero : Deadline para aplicar al summer internship de LIGO : Application for LIGO: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info
+
 Enero : Deadline para aplicar para el summer programm del PI	http://www.perimeterinstitute.ca/training/undergraduate-students/undergraduate-theoretical-physics-summer-program
 
 Enero-Febrero : Camp Brasil	http://maratona.ic.unicamp.br/MaratonaVerao2020/
