@@ -61,3 +61,10 @@ Errichto git : https://github.com/Errichto/youtube/wiki/How-to-practice%3F
 IOI like problems : https://dmoj.ca/about/
 
 Problemas de Mate-Canada : https://www.math.toronto.edu/oz/turgor/archives.php
+
+Links:<br/>
+https://kenkoooo.com/atcoder/#/table/TAO_genna <br/>
+https://surya1231.github.io/Codeforces-contest/<br/>
+http://oichecklist.pythonanywhere.com/<br/>
+https://arena.topcoder.com/<br/>
+https://codeforces-upsolving-helper.herokuapp.com/<br/>
